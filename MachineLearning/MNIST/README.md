@@ -1,7 +1,7 @@
 # AI & Machine Learning Practice - MNIST
 <br>
 
-[**Notes here (HackMD)**](https://hackmd.io/j2ZXeCFcS9OwYc8PP28EMQ?both)
+[**Notes here (HackMD)**](https://hackmd.io/@6R35tGUKTmC5_lms3b3V3g/SkI6Pw9VH)
 <br>
 
 ## Running environment
