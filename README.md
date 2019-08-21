@@ -2,4 +2,8 @@
 Class Notes, Homeworks and practices
 
 ## AI & Machine Learning
-[Notes](https://hackmd.io/b2UNmNhnT_6pC_Gh-Bjpkg)
+
+### Class Notes
+[AI & Machine Learning - Introduction](https://hackmd.io/b2UNmNhnT_6pC_Gh-Bjpkg?both)
+[AI & Machine Learning - Deep Learning](https://hackmd.io/ln4be4VBSkSKBxz7yiiPIg?both)
+
